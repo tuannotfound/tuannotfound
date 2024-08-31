@@ -7,11 +7,8 @@ Skills: Nothing
 - 🌱 I’m currently learning HTML, CSS, JS, PHP 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tuannotfound)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuannotfound&theme=great-gatsby&show_icons=true)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tuannotfound)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tuannotfound&theme=highcontrast)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuannotfound&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tuannotfound)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuannotfound&layout=compact)
