@@ -4,7 +4,7 @@ I have a passion for creating interesting projects that benefit both society and
 
 Skills: Nothing
 
-- 🌱 I’m currently learning HTML, CSS, JS, PHP 
+- 🌱 I’m currently learning nothing
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuannotfound&theme=great-gatsby&show_icons=true)  
